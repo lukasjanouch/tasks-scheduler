@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: 2172/fomo
+    password: 
     url: jdbc:mysql://localhost:3306/tasks-scheduler
     username: root
     driver-class-name: com.mysql.cj.jdbc.Driver
